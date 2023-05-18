@@ -12,7 +12,7 @@ Whenever you change the system parameters shown in the paper, please retune the 
 
 To cite this work please use:
 <div style="max-height: 200px; overflow-y: scroll;">
-  @article{MPC2022_Bouc-Wen,
+ <p> @article{MPC2022_Bouc-Wen,</p>
   author={José Sénchez, Noé Aldana,Mihai Lungu, and Gerardo Flores},
   journal={International Conference on System Theory},
   title={Nonlinear model predictive control of a satellite
