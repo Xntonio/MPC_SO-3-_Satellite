@@ -14,7 +14,7 @@ Whenever you change the system parameters shown in the paper, please retune the 
 To cite this work please use:
 <pre>
   <code>
- @article{MPC2022_Bouc-Wen,
+ @article{MPC2023_SO(3),
   author={José Sénchez, Noé Aldana,Mihai Lungu, and Gerardo Flores},
   journal={International Conference on System Theory},
   title={Nonlinear model predictive control of a satellite
