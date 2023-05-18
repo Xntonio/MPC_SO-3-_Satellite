@@ -1,13 +1,14 @@
 # MPC_SO-3-_Satellite
 
-This repository includes the MATLAB Simulink simulation files for the paper "Model Predictive Control Based on the Generalized Bouc-Wen Model for PiezoelectricActuators in Robotic Hand WithOnly Position Measurements"
+This repository includes the MATLAB Simulink simulation files for the paper "Nonlinear model predictive control of a satellite
+attitude dynamics on SO(3)"
 
-Requirments: matlab 2017b or higher
+Requirments: matlab 2021b or higher
 
 Steps to run the simulation:
 
-Run the file: piezo_main.m
-Run PiezoMPC2_17.slx simulation
+Run the file: mpc_object.m
+Run MPC_Satellite.slx simulation
 Whenever you change the system parameters shown in the paper, please retune the control gains to get robustness against exogenous disturbances.
 
 To cite this work please use:
