@@ -15,7 +15,7 @@ To cite this work please use:
 <pre>
   <code>
  @article{MPC2023_SO(3),
-  author={José Sénchez, Noé Aldana,Mihai Lungu, and Gerardo Flores},
+  author={José Sánchez, Noé Aldana,Mihai Lungu, and Gerardo Flores},
   journal={International Conference on System Theory},
   title={Nonlinear model predictive control of a satellite
 attitude dynamics on SO(3)}, 
